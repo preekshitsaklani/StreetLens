@@ -1,0 +1,15 @@
+Example Bank Limited (synthetic test fixture, not a real company)
+Q1 FY2027 Earnings Conference Call
+July 19, 2026
+Moderator: Ladies and gentlemen, good day and welcome to the Example Bank Q1 FY2027 earnings conference call. I now hand the conference over to Mr. Rajiv Sharma, Chief Financial Officer.
+Rajiv Sharma: Good evening. The net interest margin was 4.05% in Q1-2027 compared to 4.10% in Q4-2026.
+Total advances grew by 15.6% year-on-year. Total deposits grew by 13.2% year-on-year, and the average CASA ratio was 38.9% in the quarter.
+The gross NPA ratio was 1.75% and the net NPA ratio was 0.44% at June 30, 2026. The annualised credit cost was 0.62% for the quarter, reflecting seasonal slippages in the agricultural portfolio.
+Our CET-1 ratio was 15.5% and the standalone ROE was 16.0% in Q1-2027. We are happy to take questions.
+Moderator: Thank you. We will now begin the question-and-answer session. The first question is from the line of Ankit Shah from Gamma Research. Please go ahead.
+Ankit Shah: Thank you. Slippages and the credit cost went up this quarter. Is this stress in unsecured retail or only the seasonal agricultural portfolio, and how should we think about provisions?
+Rajiv Sharma: It is largely seasonal. Credit cost should moderate to around 55 basis points for the rest of FY27.
+Moderator: Thank you. The next question is from the line of Rohan Mehta from Alpha Securities. Please go ahead.
+Rohan Mehta: Fee income growth has been strong. How sustainable is the fee and commission momentum from cross-sell?
+Rajiv Sharma: Fees are broad-based across retail and business banking, so we are comfortable with the momentum.
+Moderator: Thank you. That was the last question.

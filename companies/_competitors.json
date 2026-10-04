@@ -1,0 +1,18 @@
+{
+ "BLK": [
+  {
+   "name": "Vanguard",
+   "listed": false,
+   "aum_tn": 12.0,
+   "aum_source": "USA Today via Yahoo Finance, Feb 2026: Vanguard has $12 trillion in AUM",
+   "avg_expense_ratio": 0.0006,
+   "fee_source": "Vanguard, 2 Feb 2026: asset-weighted average expense ratio 0.06% after cuts on 53 funds",
+   "notes": [
+    "Investor-owned (its funds own the firm): no shares, no stock price, no SEC 10-K, so no rating or target price",
+    "Fee cuts on 53 funds in Feb 2026, about $250 million of savings to investors in 2026",
+    "Vanguard S&P 500 ETF (VOO) passed $1 trillion in assets in June 2026"
+   ],
+   "implication": "Vanguard sets the price floor in index funds, so BlackRock's index fees stay under pressure; BlackRock's growth case rests on areas Vanguard barely competes in: private markets (GIP, HPS), active ETFs and Aladdin technology."
+  }
+ ]
+}

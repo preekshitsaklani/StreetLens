@@ -1,0 +1,93 @@
+{
+ "ticker": "BLK",
+ "name": "BlackRock, Inc.",
+ "model": "asset_manager",
+ "ciks": [
+  "0002012383",
+  "0001364742"
+ ],
+ "concepts": {
+  "ni_common": "NetIncomeLoss",
+  "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+  "operating_income": "OperatingIncomeLoss",
+  "equity": "StockholdersEquity",
+  "goodwill": "Goodwill",
+  "intangibles": [
+   "IntangibleAssetsNetExcludingGoodwill"
+  ],
+  "eps": "EarningsPerShareDiluted",
+  "dps": "CommonStockDividendsPerShareDeclared"
+ },
+ "latest": {
+  "as_of": "2026-06-30",
+  "adj_eps_quarter": 13.91,
+  "gaap_eps_quarter": 12.19,
+  "adj_operating_margin": 0.459,
+  "organic_bfg_ltm": 0.1,
+  "aum_tn": 15.3,
+  "notes": [
+   "2Q26 revenue up 31% year on year, including HPS fees and higher performance fees",
+   "Adjusted operating margin 45.9%, the highest in almost five years",
+   "Net inflows of $192bn in 2Q26 (8% organic base fee growth) and $868bn over the last twelve months",
+   "Planned quarterly buybacks raised to $550m"
+  ],
+  "source": "BlackRock 2Q26 earnings release (8-K Exhibit 99.1, 15 Jul 2026)",
+  "url": "https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-second-quarter-2026"
+ },
+ "scenarios": {
+  "bear": {
+   "g1": 0.04,
+   "g2": 0.05,
+   "g3": 0.06,
+   "g4": 0.06,
+   "g5": 0.06,
+   "g": 0.03,
+   "div_payout": 0.45
+  },
+  "base": {
+   "g1": 0.12,
+   "g2": 0.11,
+   "g3": 0.1,
+   "g4": 0.09,
+   "g5": 0.08,
+   "g": 0.04,
+   "div_payout": 0.42
+  },
+  "bull": {
+   "g1": 0.16,
+   "g2": 0.14,
+   "g3": 0.12,
+   "g4": 0.1,
+   "g5": 0.09,
+   "g": 0.045,
+   "div_payout": 0.4
+  }
+ },
+ "eps_build": {
+  "organic_base_fee_growth": 0.05,
+  "market_appreciation": 0.04,
+  "operating_leverage": 0.015,
+  "buybacks": 0.005,
+  "note": "Base-case year-1 EPS growth of about 12% = 5% organic growth (management target) + 4% market appreciation + 1.5% operating leverage + 0.5% buybacks, compounded and rounded"
+ },
+ "peers": [
+  "BLK",
+  "BX",
+  "KKR",
+  "TROW",
+  "BEN",
+  "IVZ"
+ ],
+ "thesis": [
+  "Organic base fee growth of 10% over the last twelve months is twice management's 5% target, driven by ETFs, private markets and Aladdin.",
+  "The GIP and HPS acquisitions add higher-fee private markets revenue; the adjusted operating margin reached 45.9% in 2Q26.",
+  "Equity-market levels drive roughly half of revenue growth, so the stock carries market beta that a DCF must discount."
+ ],
+ "risks": [
+  "A sustained equity-market decline (revenue tracks average AUM)",
+  "Fee compression in index products",
+  "Integration of GIP and HPS, including retention of private-markets talent",
+  "Performance-fee volatility",
+  "Regulatory scrutiny of large index holders"
+ ]
+}

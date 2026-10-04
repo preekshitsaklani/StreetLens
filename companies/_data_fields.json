@@ -1,0 +1,37 @@
+{
+ "bloomberg": {
+  "_check": "Verify any code on the Terminal with FLDS <GO>; overrides with FLDS as well.",
+  "security": "{ticker} US Equity",
+  "index": "SPX Index",
+  "rf": "USGG10YR Index",
+  "fed_funds": "FEDL01 Index",
+  "fields": {
+   "price": "PX_LAST",
+   "mcap_mn": "CUR_MKT_CAP",
+   "pb": "PX_TO_BOOK_RATIO",
+   "roe_pct": "RETURN_COM_EQY",
+   "fwd_pe": "BEST_PE_RATIO",
+   "high52": "HIGH_52WEEK",
+   "low52": "LOW_52WEEK",
+   "div_yield_pct": "EQY_DVD_YLD_IND",
+   "consensus_tp": "BEST_TARGET_PRICE",
+   "consensus_eps": "BEST_EPS",
+   "tbvps": "TANG_BOOK_VAL_PER_SH"
+  }
+ },
+ "factset": {
+  "_check": "Verify formulas in the Formula API Request Builder (developer.factset.com) before relying on them.",
+  "base_url": "https://api.factset.com/formula-api/v1",
+  "id": "{ticker}-US",
+  "index": "SP50",
+  "fields": {
+   "price": "P_PRICE(0)",
+   "mcap_mn": "FF_MKT_VAL(0)",
+   "high52": "P_PRICE_HIGH(-52W,0)",
+   "low52": "P_PRICE_LOW(-52W,0)",
+   "consensus_tp": "FE_VALUATION(PRICE_TGT,MEAN,NTMA,0,0)",
+   "consensus_eps": "FE_ESTIMATE(EPS,MEAN,ANN_ROLL,+1,0)"
+  },
+  "history": "P_PRICE(-2AY,0,W)"
+ }
+}

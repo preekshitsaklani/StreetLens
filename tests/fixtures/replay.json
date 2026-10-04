@@ -1,0 +1,231 @@
+{
+ "Q4FY26": {
+  "reported": [
+   {
+    "metric": "nim",
+    "value": 4.1,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "The net interest margin was 4.10% in Q4-2026 compared to 4.05% in Q3-2026."
+   },
+   {
+    "metric": "loan_growth_yoy",
+    "value": 15.0,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "Total advances grew by 15.0% year-on-year and 4.1% sequentially."
+   },
+   {
+    "metric": "deposit_growth_yoy",
+    "value": 12.5,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "Total deposits grew by 12.5% year-on-year"
+   },
+   {
+    "metric": "casa_ratio",
+    "value": 39.5,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "the average CASA ratio was 39.5% in the quarter"
+   },
+   {
+    "metric": "gnpa_ratio",
+    "value": 1.8,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "the gross NPA ratio was 1.80% and the net NPA ratio was 0.45% at March 31, 2026"
+   },
+   {
+    "metric": "nnpa_ratio",
+    "value": 0.45,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "the gross NPA ratio was 1.80% and the net NPA ratio was 0.45% at March 31, 2026"
+   },
+   {
+    "metric": "credit_cost",
+    "value": 0.48,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "The annualised credit cost was 0.48% for the quarter."
+   },
+   {
+    "metric": "cet1_ratio",
+    "value": 15.8,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "Our CET-1 ratio was 15.8% and the standalone ROE was 16.2% in Q4-2026."
+   },
+   {
+    "metric": "roe",
+    "value": 16.2,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "Our CET-1 ratio was 15.8% and the standalone ROE was 16.2% in Q4-2026."
+   },
+   {
+    "metric": "fee_growth_yoy",
+    "value": 18.0,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "Net interest income grew by 9.4% year-on-year."
+   },
+   {
+    "metric": "not_a_metric",
+    "value": 1.0,
+    "unit": "pct",
+    "period": "Q4FY26",
+    "evidence": "x"
+   }
+  ],
+  "guidance": [
+   {
+    "metric": "loan_growth_yoy",
+    "kind": "range",
+    "low": null,
+    "high": null,
+    "direction": null,
+    "phrase": "mid-teens",
+    "unit": "pct",
+    "horizon": "FY27",
+    "evidence": "We expect loan growth in the mid-teens for FY27, broadly in line with the system."
+   },
+   {
+    "metric": "nim",
+    "kind": "direction",
+    "low": null,
+    "high": null,
+    "direction": "stable",
+    "phrase": "range-bound",
+    "unit": "pct",
+    "horizon": "next few quarters",
+    "evidence": "Margins should remain range-bound over the next few quarters"
+   },
+   {
+    "metric": "credit_cost",
+    "kind": "point",
+    "low": 50,
+    "high": null,
+    "direction": null,
+    "phrase": null,
+    "unit": "bps",
+    "horizon": "FY27",
+    "evidence": "We would expect credit cost of around 50 basis points for FY27"
+   },
+   {
+    "metric": "deposit_growth_yoy",
+    "kind": "range",
+    "low": 13,
+    "high": 14,
+    "direction": null,
+    "phrase": null,
+    "unit": "pct",
+    "horizon": "FY27",
+    "evidence": "We expect deposit growth of 13% to 14% in FY27"
+   },
+   {
+    "metric": "nim",
+    "kind": "point",
+    "low": 3.5,
+    "high": null,
+    "direction": null,
+    "phrase": null,
+    "unit": "pct",
+    "horizon": "FY27",
+    "evidence": "I think margins could drop to 3.5% next year"
+   },
+   {
+    "metric": "roe",
+    "kind": "point",
+    "low": 18.0,
+    "high": null,
+    "direction": null,
+    "phrase": null,
+    "unit": "pct",
+    "horizon": "FY27",
+    "evidence": "We are targeting an ROE of 18% for FY27."
+   }
+  ]
+ },
+ "Q1FY27": {
+  "reported": [
+   {
+    "metric": "nim",
+    "value": 4.05,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "The net interest margin was 4.05% in Q1-2027 compared to 4.10% in Q4-2026."
+   },
+   {
+    "metric": "loan_growth_yoy",
+    "value": 15.6,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "Total advances grew by 15.6% year-on-year."
+   },
+   {
+    "metric": "deposit_growth_yoy",
+    "value": 13.2,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "Total deposits grew by 13.2% year-on-year"
+   },
+   {
+    "metric": "casa_ratio",
+    "value": 38.9,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "the average CASA ratio was 38.9% in the quarter"
+   },
+   {
+    "metric": "gnpa_ratio",
+    "value": 1.75,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "The gross NPA ratio was 1.75% and the net NPA ratio was 0.44% at June 30, 2026."
+   },
+   {
+    "metric": "nnpa_ratio",
+    "value": 0.44,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "The gross NPA ratio was 1.75% and the net NPA ratio was 0.44% at June 30, 2026."
+   },
+   {
+    "metric": "credit_cost",
+    "value": 0.62,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "The annualised credit cost was 0.62% for the quarter"
+   },
+   {
+    "metric": "cet1_ratio",
+    "value": 15.5,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "Our CET-1 ratio was 15.5% and the standalone ROE was 16.0% in Q1-2027."
+   },
+   {
+    "metric": "roe",
+    "value": 16.0,
+    "unit": "pct",
+    "period": "Q1FY27",
+    "evidence": "Our CET-1 ratio was 15.5% and the standalone ROE was 16.0% in Q1-2027."
+   }
+  ],
+  "guidance": [
+   {
+    "metric": "credit_cost",
+    "kind": "point",
+    "low": 55,
+    "high": null,
+    "direction": null,
+    "phrase": null,
+    "unit": "bps",
+    "horizon": "FY27",
+    "evidence": "Credit cost should moderate to around 55 basis points for the rest of FY27."
+   }
+  ]
+ }
+}

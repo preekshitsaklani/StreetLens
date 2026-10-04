@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "streetlens"
+version = "0.1.0"
+description = "US financials research, earnings extraction, valuation, and quant-analysis platform"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "pandas>=2.0",
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "statsmodels>=0.14",
+    "scikit-learn>=1.3",
+    "openpyxl>=3.1",
+    "yfinance>=0.2",
+    "pydantic>=2.5",
+    "rapidfuzz>=3.5",
+    "pdfplumber>=0.10",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+streetlens = "streetlens.cli:main"
+earningslens = "earningslens.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

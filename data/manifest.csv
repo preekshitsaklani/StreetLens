@@ -1,0 +1,11 @@
+bank,quarter,call_date,source_url,local_file
+BLK,Q1FY26,2026-04-14,https://www.sec.gov/Archives/edgar/data/2012383/000119312526153768/,data/raw/BLK_Q1FY26_153768.txt
+BLK,Q2FY26,2026-07-15,https://www.sec.gov/Archives/edgar/data/2012383/000119312526304013/,data/raw/BLK_Q2FY26_304013.txt
+GS,Q1FY26,2026-04-13,https://www.sec.gov/Archives/edgar/data/886982/000088698226000096/,data/raw/GS_Q1FY26_000096.txt
+GS,Q2FY26,2026-07-14,https://www.sec.gov/Archives/edgar/data/886982/000088698226000294/,data/raw/GS_Q2FY26_000294.txt
+JPM,Q1FY26,2026-04-14,https://www.sec.gov/Archives/edgar/data/19617/000162828026024990/,data/raw/JPM_Q1FY26_024990.txt
+JPM,Q1FY26,2026-04-14,https://www.sec.gov/Archives/edgar/data/19617/000162828026025013/,data/raw/JPM_Q1FY26_025013.txt
+JPM,Q2FY26,2026-07-14,https://www.sec.gov/Archives/edgar/data/19617/000162828026048078/,data/raw/JPM_Q2FY26_048078.txt
+JPM,Q2FY26,2026-07-14,https://www.sec.gov/Archives/edgar/data/19617/000162828026048086/,data/raw/JPM_Q2FY26_048086.txt
+STT,Q1FY26,2026-04-17,https://www.sec.gov/Archives/edgar/data/93751/000009375126000184/,data/raw/STT_Q1FY26_000184.txt
+STT,Q2FY26,2026-07-16,https://www.sec.gov/Archives/edgar/data/93751/000009375126000387/,data/raw/STT_Q2FY26_000387.txt

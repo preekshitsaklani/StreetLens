@@ -1,0 +1,82 @@
+{
+ "ticker": "JPM",
+ "name": "JPMorgan Chase & Co.",
+ "model": "bank",
+ "ciks": [
+  "0000019617"
+ ],
+ "concepts": {
+  "ni_common": "NetIncomeLossAvailableToCommonStockholdersBasic",
+  "revenue": "Revenues",
+  "equity": "StockholdersEquity",
+  "preferred": "PreferredStockIncludingAdditionalPaidInCapitalNetOfDiscount",
+  "goodwill": "Goodwill",
+  "intangibles": [
+   "FiniteLivedIntangibleAssetsNet",
+   "IndefiniteLivedIntangibleAssetsExcludingGoodwill"
+  ],
+  "eps": "EarningsPerShareDiluted",
+  "dps": "CommonStockDividendsPerShareDeclared"
+ },
+ "latest": {
+  "as_of": "2026-06-30",
+  "tbvps": 113.35,
+  "bvps": 133.01,
+  "rotce_ex_items": 0.23,
+  "rotce_reported": 0.29,
+  "cet1": 0.141,
+  "dps_run_rate": 6.6,
+  "notes": [
+   "FY2026 NII guidance about $105.5bn, or $96.5bn excluding Markets (market dependent)",
+   "FY2026 card net charge-off rate guided at about 3.2%",
+   "Quarterly dividend raised to $1.65 from 3Q26; LTM net payout 73%",
+   "2Q26 reported RoTCE 29% includes a $4.6bn Visa-related gain; 23% excluding significant items"
+  ],
+  "source": "JPMorganChase 2Q26 earnings release and presentation (8-K, 14 Jul 2026)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026048086/a2q26_earningsxpresentat.htm"
+ },
+ "scenarios": {
+  "bear": {
+   "rotce1": 0.18,
+   "rotce2": 0.16,
+   "rotce_sust": 0.16,
+   "g": 0.035,
+   "total_payout": 0.6
+  },
+  "base": {
+   "rotce1": 0.21,
+   "rotce2": 0.2,
+   "rotce_sust": 0.19,
+   "g": 0.04,
+   "total_payout": 0.7
+  },
+  "bull": {
+   "rotce1": 0.23,
+   "rotce2": 0.22,
+   "rotce_sust": 0.21,
+   "g": 0.045,
+   "total_payout": 0.75
+  }
+ },
+ "peers": [
+  "JPM",
+  "BAC",
+  "C",
+  "WFC",
+  "MS",
+  "GS"
+ ],
+ "thesis": [
+  "Scale leader with the most diversified earnings mix among US banks: consumer, wholesale and asset and wealth management.",
+  "RoTCE of 23% excluding significant items in 2Q26 is well above any reasonable cost of equity, but part of 2Q26 reflected a pull-forward of deal and markets activity.",
+  "The valuation question is sustainability: the market already prices a premium multiple to tangible book."
+ ],
+ "risks": [
+  "Credit normalisation in cards beyond the guided ~3.2% net charge-off rate",
+  "Lower policy rates compressing net interest income",
+  "Markets and investment banking revenue reverting after a strong 2Q26",
+  "Capital rules (Basel III endgame, G-SIB surcharge) limiting buybacks",
+  "Leadership succession"
+ ],
+ "sust_note": "Base sustainable RoTCE 19%: between management's 17% through-the-cycle target and the 20.6% five-year average computed from SEC filings (FY2021-FY2025)"
+}

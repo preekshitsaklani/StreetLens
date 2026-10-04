@@ -1,0 +1,3 @@
+bank,quarter,call_date,source_url,local_file
+JPM,Q2FY26,2026-07-14,https://www.sec.gov/Archives/edgar/data/19617/000162828026048078/,tests/fixtures/real/JPM_Q2FY26_048078.txt
+BLK,Q2FY26,2026-07-15,https://www.sec.gov/Archives/edgar/data/2012383/000119312526304013/,tests/fixtures/real/BLK_Q2FY26_304013.txt

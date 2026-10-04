@@ -1,0 +1,10 @@
+bank,quarter,metric,value
+EXBANK,Q4FY26,nim,4.10
+EXBANK,Q4FY26,loan_growth_yoy,15.0
+EXBANK,Q4FY26,deposit_growth_yoy,12.5
+EXBANK,Q4FY26,casa_ratio,39.5
+EXBANK,Q4FY26,gnpa_ratio,1.80
+EXBANK,Q4FY26,nnpa_ratio,0.45
+EXBANK,Q4FY26,credit_cost,0.48
+EXBANK,Q4FY26,cet1_ratio,15.8
+EXBANK,Q4FY26,roe,16.2

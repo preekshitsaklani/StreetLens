@@ -1,0 +1,7 @@
+{
+ "erp": 0.045,
+ "buy": 0.1,
+ "sell": -0.1,
+ "erp_note": "US equity risk premium 4.5%, analyst assumption in line with recent implied ERP estimates (about 4% to 5%)",
+ "basis": "12-month total return (price upside plus forward dividend yield)"
+}

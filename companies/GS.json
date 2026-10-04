@@ -1,0 +1,82 @@
+{
+ "ticker": "GS",
+ "name": "The Goldman Sachs Group, Inc.",
+ "model": "bank",
+ "ciks": [
+  "0000886982"
+ ],
+ "concepts": {
+  "ni_common": "NetIncomeLossAvailableToCommonStockholdersBasic",
+  "revenue": "RevenuesNetOfInterestExpense",
+  "equity": "StockholdersEquity",
+  "preferred": "PreferredStockValue",
+  "goodwill": "Goodwill",
+  "intangibles": [
+   "IntangibleAssetsNetExcludingGoodwill"
+  ],
+  "eps": "EarningsPerShareDiluted",
+  "dps": "CommonStockDividendsPerShareDeclared"
+ },
+ "latest": {
+  "as_of": "2026-06-30",
+  "tbvps": 336.6,
+  "bvps": 367.67,
+  "rotce_ex_items": 0.255,
+  "rotce_reported": 0.255,
+  "cet1": 0.129,
+  "dps_run_rate": 20.0,
+  "notes": [
+   "2Q26 net revenues $20.34bn, up 39% year on year; annualised ROE 23.5% and ROTE 25.5%",
+   "First-half 2026 annualised ROE 21.7%",
+   "Quarterly dividend raised to $5.00 from 3Q26; $4.0bn of buybacks in 2Q26",
+   "Standardised CET1 ratio 12.9%"
+  ],
+  "source": "Goldman Sachs 2Q26 earnings results (8-K Exhibit 99.1, 14 Jul 2026)",
+  "url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000294/a2q26gsearningsresults.htm",
+  "tbvps_note": "Estimated: reported BVPS $367.67 x (tangible common equity / common equity) from the 30 Jun 2026 10-Q via SEC XBRL: (122.742 - 13.028 - 7.342 - 1.930) / (122.742 - 13.028) $bn"
+ },
+ "scenarios": {
+  "bear": {
+   "rotce1": 0.15,
+   "rotce2": 0.13,
+   "rotce_sust": 0.125,
+   "g": 0.035,
+   "total_payout": 0.7
+  },
+  "base": {
+   "rotce1": 0.2,
+   "rotce2": 0.17,
+   "rotce_sust": 0.155,
+   "g": 0.04,
+   "total_payout": 0.8
+  },
+  "bull": {
+   "rotce1": 0.24,
+   "rotce2": 0.2,
+   "rotce_sust": 0.18,
+   "g": 0.045,
+   "total_payout": 0.85
+  }
+ },
+ "peers": [
+  "GS",
+  "MS",
+  "JPM",
+  "BAC",
+  "C",
+  "WFC"
+ ],
+ "thesis": [
+  "Global Banking and Markets is in a strong cycle: 2Q26 net revenues rose 39% and the firm reports its highest backlog in five years.",
+  "Earnings are more cyclical than a deposit-funded bank, so through-the-cycle returns, not peak returns, should set the multiple.",
+  "Asset and Wealth Management (2Q26 revenue $4.6bn) adds steadier fee income and supports a higher multiple over time."
+ ],
+ "risks": [
+  "Capital-markets activity slowing after a pulled-forward 2Q26",
+  "Trading losses or volatility in principal investments",
+  "CET1 at 12.9% leaves less buffer for buybacks than peers",
+  "Regulatory capital changes",
+  "Key-person and franchise risk"
+ ],
+ "sust_note": "Base sustainable RoTCE 15.5%: close to the 14.6% five-year average computed from SEC filings (FY2021-FY2025, a full cycle including the weak 2022-23 deal market), plus credit for a larger Asset & Wealth Management business"
+}

@@ -1,0 +1,18 @@
+Example Bank Limited (synthetic test fixture, not a real company)
+Q4 FY2026 Earnings Conference Call
+April 20, 2026
+Moderator: Ladies and gentlemen, good day and welcome to the Example Bank Q4 FY2026 earnings conference call. I now hand the conference over to Mr. Rajiv Sharma, Chief Financial Officer. Thank you and over to you, sir.
+Rajiv Sharma: Good evening and thank you for joining us. Net interest income grew by 9.4% year-on-year. The net interest margin was 4.10% in Q4-2026 compared to 4.05% in Q3-2026.
+Total advances grew by 15.0% year-on-year and 4.1% sequentially. Total deposits grew by 12.5% year-on-year, and the average CASA ratio was 39.5% in the quarter.
+On asset quality, the gross NPA ratio was 1.80% and the net NPA ratio was 0.45% at March 31, 2026. The annualised credit cost was 0.48% for the quarter.
+Our CET-1 ratio was 15.8% and the standalone ROE was 16.2% in Q4-2026. With this, I open the floor for questions.
+Moderator: Thank you. We will now begin the question-and-answer session. The first question is from the line of Rohan Mehta from Alpha Securities. Please go ahead.
+Rohan Mehta: Thanks for the opportunity. Could you talk about the outlook for margins given the repo rate cuts, and what loan growth you are planning for next year?
+Rajiv Sharma: Sure. We expect loan growth in the mid-teens for FY27, broadly in line with the system. Margins should remain range-bound over the next few quarters as deposit repricing catches up with the repo-linked book.
+Rohan Mehta: And on credit cost, should we assume the current run-rate of provisions continues into next year?
+Rajiv Sharma: We would expect credit cost of around 50 basis points for FY27, with some normalisation in unsecured retail.
+Moderator: Thank you. The next question is from the line of Priya Nair from Beta Capital. Please go ahead.
+Priya Nair: Hi. Two questions. First, deposit growth has lagged loan growth, so how are you thinking about funding and the credit-deposit ratio? Second, I think margins could drop to 3.5% next year, so will you need to raise capital?
+Rajiv Sharma: We expect deposit growth of 13% to 14% in FY27, supported by our branch additions. On capital, our CET-1 is comfortable and we do not see any need to raise equity.
+Moderator: Thank you. That was the last question. I now hand the conference back to the management for closing comments.
+Rajiv Sharma: Thank you all for joining.

@@ -1,0 +1,3 @@
+bank,quarter,call_date,source_url,local_file
+EXBANK,Q4FY26,2026-04-20,synthetic,tests/fixtures/exbank_q4fy26.txt
+EXBANK,Q1FY27,2026-07-19,synthetic,tests/fixtures/exbank_q1fy27.txt

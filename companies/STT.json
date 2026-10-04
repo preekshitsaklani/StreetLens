@@ -1,0 +1,79 @@
+{
+ "ticker": "STT",
+ "name": "State Street Corporation",
+ "model": "bank",
+ "ciks": [
+  "0000093751"
+ ],
+ "concepts": {
+  "ni_common": "NetIncomeLossAvailableToCommonStockholdersBasic",
+  "revenue": "Revenues",
+  "equity": "StockholdersEquity",
+  "preferred": "PreferredStockValue",
+  "goodwill": "Goodwill",
+  "intangibles": [
+   "IntangibleAssetsNetExcludingGoodwill"
+  ],
+  "eps": "EarningsPerShareDiluted",
+  "dps": "CommonStockDividendsPerShareDeclared"
+ },
+ "latest": {
+  "as_of": "2026-06-30",
+  "tbvps": 59.23,
+  "rotce_ex_items": 0.26,
+  "rotce_reported": 0.26,
+  "cet1": 0.108,
+  "dps_run_rate": 3.68,
+  "notes": [
+   "Record fee revenue and record net interest income; 2Q26 revenue $4.05bn, up 17% year on year",
+   "Assets under custody and/or administration a record $57.9tn (+18%); assets under management $6.3tn (+23%)",
+   "FY2026 fee revenue growth guidance raised to 12%-13% from 7%-9%",
+   "New medium-term targets: 35% pre-tax margin and mid-20s RoTCE over the cycle; dividend raised 10% to $0.92 a quarter"
+  ],
+  "source": "State Street 2Q26 earnings release and addendum (16 Jul 2026)",
+  "url": "https://s203.q4cdn.com/888565246/files/doc_financials/2026/q2/STT-2Q26-Earnings-Release-Addendum-vFinal.pdf"
+ },
+ "scenarios": {
+  "bear": {
+   "rotce1": 0.17,
+   "rotce2": 0.15,
+   "rotce_sust": 0.14,
+   "g": 0.035,
+   "total_payout": 0.75
+  },
+  "base": {
+   "rotce1": 0.22,
+   "rotce2": 0.2,
+   "rotce_sust": 0.18,
+   "g": 0.04,
+   "total_payout": 0.8
+  },
+  "bull": {
+   "rotce1": 0.26,
+   "rotce2": 0.24,
+   "rotce_sust": 0.23,
+   "g": 0.045,
+   "total_payout": 0.85
+  }
+ },
+ "sust_note": "Base sustainable RoTCE 18%: above the 16.6% FY2022-FY2025 average reported by the company, but well short of management's new mid-20s through-the-cycle target, which is untested",
+ "peers": [
+  "STT",
+  "NTRS",
+  "JPM",
+  "SCHW",
+  "BLK"
+ ],
+ "thesis": [
+  "Fee revenue is compounding with markets and flows: AUC/A of $57.9tn (+18%) and AUM of $6.3tn (+23%) drove a raised 12%-13% FY2026 fee growth outlook.",
+  "Ten straight quarters of positive operating leverage lifted RoTCE to about 26%, versus 13%-18% in FY2022-FY2025.",
+  "The stock's debate is whether the new mid-20s RoTCE target is structural (operating model, AI-enabled servicing) or a peak-market result."
+ ],
+ "risks": [
+  "Equity-market decline reducing asset-based fees",
+  "Fee compression in custody and asset servicing",
+  "Lower rates reducing net interest income from client deposits",
+  "Execution risk on the technology transformation (Alpha platform, AI)",
+  "CET1 at 10.8% leaves a thinner buffer than peers"
+ ]
+}
